@@ -8,3 +8,11 @@
   font-style: italic;
   letter-spacing: 3em;
 }
+
+
+@media (max-width: 700px) {
+  body{
+    background-color: black;
+    color: white;
+  }
+}

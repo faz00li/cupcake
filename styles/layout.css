@@ -1,0 +1,7 @@
+.column{
+  float: left;
+}
+
+.row::after {
+  clear: both;
+}
